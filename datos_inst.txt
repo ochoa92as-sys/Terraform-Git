@@ -1,0 +1,12 @@
+inst creada con ip 44.201.20.17 
+inst destroy 44.201.20.17 
+inst creada con ip 18.234.66.215 
+inst creada con ip 18.234.35.229 
+inst destroy 18.234.35.229 
+inst creada con ip 54.196.232.57 
+inst destroy 54.196.232.57 
+inst creada con ip 3.95.60.155 
+inst destroy 54.242.118.206 
+inst creada con ip 54.235.46.181 
+inst destroy 54.235.46.181 
+inst creada con ip 34.226.197.191 

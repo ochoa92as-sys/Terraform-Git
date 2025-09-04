@@ -47,3 +47,13 @@ variable "ingress_port_list" {
   type = list(number)
   
 }
+
+### VARIABLES PARA CONECTAR A TERRAFORM - AWS ######
+
+variable "accesskey" {
+  
+}
+
+variable "secretkey" {
+  
+}
